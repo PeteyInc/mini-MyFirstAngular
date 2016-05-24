@@ -1,0 +1,8 @@
+body {
+  background: pink;
+}
+
+h2 {
+  text-decoration: underline;
+  text-transform: full-width;
+}
